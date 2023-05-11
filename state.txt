@@ -1,0 +1,12 @@
+              LIST OF CITIES & COORDINATES
+------------------------------------------------------------
+  Kashmir [101]        Roorkee [301]        Banaras [503]
+  Jammu [102]          Rishikesh [302]      Vrindavan [504]
+  Sundarnagar [201]    Nanital [303]        Jhansi [505]
+  Manali [202]         Amritsar [401]       Aligarh [506]
+  Shimla [203]         Chandigarh [402]     Delhi [601]
+  Mandi [204]          Bathinda [403]       Noida [602]
+  Solan [205]          Patiala [404]        Gaziabad [603]
+  Kullu [206]          Agra [501]           Lucknow [507]
+  Kufri [207]          Mathura [502]        Dehradun [304]
+------------------------------------------------------------
