@@ -1,2 +1,2 @@
 # DeTour
-A portal to design the trip in minimum distance using TSP in DP
+Our platform is designed to help you plan your trip in the most efficient way possible. By using advanced algorithms, we can calculate the optimal route to your destination, minimizing distance and time spent on the road. Whether you're traveling for business or pleasure, our portal will ensure that you arrive at your destination quickly and with minimal hassle. Give us a try and experience the benefits of our cutting-edge trip planning technology!
